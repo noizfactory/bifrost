@@ -1,0 +1,19 @@
+{
+  "AminoConfigurations": [
+    {
+      "vendorName": "Sachin Shrestha",
+      "libraryVersion": "2020.09.17.01",
+      "libraryName": "NodeFactory",
+      "jsonLibs": [
+        {
+          "path": "compounds",
+          "files": [ ]
+        },
+        {
+          "path": "graphs",
+          "files": [ ]
+        }
+      ]
+    }
+  ]
+}
